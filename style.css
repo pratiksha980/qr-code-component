@@ -72,7 +72,7 @@ h2 {
 
 p {
   color: hsl(216, 15%, 48%);
-  font-size: 15px; /* Official style-guide dimensioning value specification */
+  font-size: 15px;
   font-weight: 400;
   line-height: 1.4;
 }
